@@ -1,12 +1,12 @@
 Package: ene
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Caja de herramientas para la ENE
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Klaus Lehmann
+Maintainer: Klaus Lehmann <klehmann@fen.uchile.cl>
+Description: El paquete ENE consiste en una serie de funciones que facilitan la obtención de los principales
+    indicadores coyunturales del mercado de trabajo.
+License: GNU
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
